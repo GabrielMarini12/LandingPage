@@ -373,7 +373,6 @@ body {
 /* footer */
 footer {
   display: flex;
-  width: 100%;
   justify-content: end;
   align-items: center;
   background-color: #2b323c;
@@ -454,6 +453,7 @@ footer .separador {
   footer {
     display: flex;
     flex-direction: column;
+    width: 100%;
   }
 
   footer .separador {
@@ -564,6 +564,7 @@ footer .separador {
   footer {
     display: flex;
     flex-direction: column;
+    width: 100%;
   }
 
   footer .separador {
